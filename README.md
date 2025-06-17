@@ -8,7 +8,7 @@
 
 [![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/developer/community/community-builders/)
 [![DevOps Institute Ambassador](https://img.shields.io/badge/DevOps%20Institute-Ambassador-4CAF50?style=flat-square)](https://www.devopsinstitute.com/)
-[![Speaker](https://img.shields.io/badge/Speaker-DevOpsDays%20%7C%20Kubernetes%20%7C%20AWS-blue?style=flat-square&logo=microphone&logoColor=white)](https://github.com/axellab)
+[![Speaker](https://img.shields.io/badge/Speaker-DevOpsDays%20%7C%20KCD%20%7C%20AWSUG-blue?style=flat-square&logo=microphone&logoColor=white)](https://github.com/axellab)
 
 </div>
 

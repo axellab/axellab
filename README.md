@@ -9,10 +9,10 @@ Recommended settings:
 - Text: "Your Name | Your Title"
 - Style: Modern/Tech theme
 - Export and upload to your GitHub repo, then replace the URL below
--->
+
 
 ![Banner](https://via.placeholder.com/1000x300/FF9900/000000?text=Axel+Gabriel+Labruna+%7C+Solution+Architect)
-
+-->
 <!-- Visitor Counter -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=axellab.axellab&style=flat-square&color=FF9900)
 
@@ -148,7 +148,7 @@ I love sharing knowledge and have been fortunate to speak at amazing events:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axellab&theme=dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&background=0D1117)
 
 <!-- Animated GitHub Activity Graph -->
-![Snake animation](https://github.com/axellab/axellab/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://github.com/axellab/axellab/blob/output/github-contribution-grid-snake-dark.svg) -->
 
 </div>
 
